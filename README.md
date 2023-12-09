@@ -59,7 +59,7 @@ const Mani = {
 </p>
 
 ## Skill & Tools
-<p align="center"><a href="https://github.com/mani-agah"><img src="https://skillicons.dev/icons?i=js,typescript,python,dotnet,angular,visualstudio"></a>
+<p align="center"><a href="https://github.com/mani-agah"><img src="https://skillicons.dev/icons?i=js,typescript,python,dotnet,angular,visualstudio,azure"></a>
   
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -67,7 +67,7 @@ const Mani = {
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Maral%20Mosafer&theme=black-ice&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaralMosafer&hide_progress=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani-agha&hide_progress=true&theme=dark">
 </p>
 
 <p align="center">
