@@ -59,8 +59,10 @@ const Mani = {
 </p>
 
 ## Skill & Tools
-<p align="center"><a href="https://github.com/mani-agah"><img src="https://skillicons.dev/icons?i=js,typescript,python,dotnet,angular,visualstudio,azure"></a>
-  
+<p align="center"><a href="https://github.com/mani-agah"><img src="https://skillicons.dev/icons?i=js,typescript,python,dotnet,angular,visualstudio">
+<br>
+    <img src="https://skillicons.dev/icons?i=js,typescript,python,dotnet,angular,visualstudio">
+</a>  
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
