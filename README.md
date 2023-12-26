@@ -15,7 +15,7 @@ const Mani = {
             ASP NETcore: ["MVC", "Razor Pages"],
         },
         frontEnd: {
-            Learning:  ["TypeScript", "Angular","Anaconda"],
+            Learning:  ["TypeScript", "Angular"],
         },
     },
     architecture: ["Onion Architecture"],
